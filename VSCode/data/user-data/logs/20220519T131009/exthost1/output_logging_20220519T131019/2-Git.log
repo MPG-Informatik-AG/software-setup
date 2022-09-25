@@ -1,0 +1,5 @@
+[2022-05-19T11:10:19.409Z] Validating found git in: C:\Program Files\Git\cmd\git.exe
+[2022-05-19T11:10:19.422Z] Validating found git in: C:\Program Files (x86)\Git\cmd\git.exe
+[2022-05-19T11:10:19.424Z] Validating found git in: C:\Program Files\Git\cmd\git.exe
+[2022-05-19T11:10:19.425Z] Validating found git in: C:\Users\bindermar-mpg\AppData\Local\Programs\Git\cmd\git.exe
+[2022-05-19T11:10:19.569Z] Git installation not found.

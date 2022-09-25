@@ -1,0 +1,32 @@
+[2022-05-19 13:10:19.822] [sharedprocess] [info] Starting worker process with pid 13952 (type: fileWatcher, window: 1).
+[2022-05-19 13:10:20.017] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2022-05-19 13:10:43.802] [sharedprocess] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-05-19 13:10:43.810] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-05-19 13:10:45.181] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint e:\Programming\VSCode\data\user-data\CachedExtensionVSIXs\dbaeumer.vscode-eslint-2.2.2
+[2022-05-19 13:11:02.632] [sharedprocess] [info] Extracted extension to e:\Programming\VSCode\data\extensions\.e1fc3a05-65d7-435a-aaa8-89f153227908: dbaeumer.vscode-eslint
+[2022-05-19 13:11:05.340] [sharedprocess] [info] Renamed to e:\Programming\VSCode\data\extensions\dbaeumer.vscode-eslint-2.2.2
+[2022-05-19 13:11:06.768] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-05-19 13:11:06.770] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-05-19 13:11:20.829] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-05-19 13:11:20.842] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-05-19 13:11:26.308] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-19 13:11:26.970] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-05-19 13:11:27.129] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-19 13:11:27.287] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-19 13:11:27.526] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-19 13:11:27.526] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-05-19 13:11:27.526] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-05-19 13:11:27.526] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-19 13:11:36.626] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers e:\Programming\VSCode\data\user-data\CachedExtensionVSIXs\ms-toolsai.jupyter-renderers-1.0.6
+[2022-05-19 13:11:36.642] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap e:\Programming\VSCode\data\user-data\CachedExtensionVSIXs\ms-toolsai.jupyter-keymap-1.0.0
+[2022-05-19 13:12:33.453] [sharedprocess] [info] Extracted extension to e:\Programming\VSCode\data\extensions\.00ecdbe7-ed55-4e67-941a-a8d675e9b9b2: ms-toolsai.jupyter-keymap
+[2022-05-19 13:13:03.537] [sharedprocess] [info] Renamed to e:\Programming\VSCode\data\extensions\ms-toolsai.jupyter-keymap-1.0.0
+[2022-05-19 13:13:25.471] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-05-19 13:14:15.157] [sharedprocess] [info] Downloaded extension: ms-python.python e:\Programming\VSCode\data\user-data\CachedExtensionVSIXs\ms-python.python-2022.6.2
+[2022-05-19 13:14:15.189] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter e:\Programming\VSCode\data\user-data\CachedExtensionVSIXs\ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-19 13:15:54.088] [sharedprocess] [info] Extracted extension to e:\Programming\VSCode\data\extensions\.43353810-3da7-4ec9-ac57-3223891e82cf: ms-toolsai.jupyter-renderers
+[2022-05-19 13:16:02.332] [sharedprocess] [info] Renamed to e:\Programming\VSCode\data\extensions\ms-toolsai.jupyter-renderers-1.0.6
+[2022-05-19 13:16:05.101] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-05-19 13:17:57.829] [sharedprocess] [info] Extracted extension to e:\Programming\VSCode\data\extensions\.9b71aa81-aac5-4e78-92a7-66ca152243d1: ms-toolsai.jupyter
+[2022-05-19 13:17:59.273] [sharedprocess] [info] Renamed to e:\Programming\VSCode\data\extensions\ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-19 13:17:59.337] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
